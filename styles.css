@@ -1,0 +1,42 @@
+body {
+    background-color: #f3fbf6;
+}
+
+h1, h2 {
+    color: #4caf50;
+}
+
+img {
+    max-width: 100%;
+}
+
+.card {
+    background-color: #e8f5e9;
+    border: none;
+}
+
+.btn-primary {
+    background-color: #66bb6a;
+    border-color: #66bb6a;
+}
+
+.btn-success {
+    background-color: #81c784;
+    border-color: #81c784;
+}
+
+.btn-warning {
+    background-color: #a5d6a7;
+    border-color: #a5d6a7;
+    color: #1b5e20;
+}
+
+section {
+    padding-bottom: 30px;
+}
+
+.alert-info {
+    background-color: #dcedc8;
+    border: none;
+    color: #2e7d32;
+}
